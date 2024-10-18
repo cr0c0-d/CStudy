@@ -76,6 +76,12 @@
     <Compile Include="05_ListBox.Designer.cs">
       <DependentUpon>05_ListBox.cs</DependentUpon>
     </Compile>
+    <Compile Include="06_Substring.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="06_Substring.Designer.cs">
+      <DependentUpon>06_Substring.cs</DependentUpon>
+    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="02_TextBox.resx">
@@ -89,6 +95,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="05_ListBox.resx">
       <DependentUpon>05_ListBox.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="06_Substring.resx">
+      <DependentUpon>06_Substring.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
