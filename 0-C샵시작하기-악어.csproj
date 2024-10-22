@@ -82,6 +82,12 @@
     <Compile Include="06_Substring.Designer.cs">
       <DependentUpon>06_Substring.cs</DependentUpon>
     </Compile>
+    <Compile Include="07_Calculator01.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="07_Calculator01.Designer.cs">
+      <DependentUpon>07_Calculator01.cs</DependentUpon>
+    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="02_TextBox.resx">
@@ -98,6 +104,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="06_Substring.resx">
       <DependentUpon>06_Substring.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="07_Calculator01.resx">
+      <DependentUpon>07_Calculator01.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>

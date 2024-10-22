@@ -16,7 +16,7 @@ namespace _0_C샵시작하기_악어
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new _06_Substring());
+            Application.Run(new _07_Calculator01());
         }
     }
 }
