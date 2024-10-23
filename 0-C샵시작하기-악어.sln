@@ -5,7 +5,7 @@ VisualStudioVersion = 17.11.35327.3
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0-C샵시작하기-악어", "0-C샵시작하기-악어.csproj", "{06817DD5-F92E-4436-B947-68C1DED73D68}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "..\ConsoleApp1\ConsoleApp1.csproj", "{6E6C0DBD-87D5-4CF0-B555-26F6C3E69A67}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "..\ConsoleApp1\ConsoleApp1.csproj", "{2EC424BC-089F-4C9E-859F-61934DA2486E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +17,10 @@ Global
 		{06817DD5-F92E-4436-B947-68C1DED73D68}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{06817DD5-F92E-4436-B947-68C1DED73D68}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{06817DD5-F92E-4436-B947-68C1DED73D68}.Release|Any CPU.Build.0 = Release|Any CPU
-		{6E6C0DBD-87D5-4CF0-B555-26F6C3E69A67}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{6E6C0DBD-87D5-4CF0-B555-26F6C3E69A67}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{6E6C0DBD-87D5-4CF0-B555-26F6C3E69A67}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{6E6C0DBD-87D5-4CF0-B555-26F6C3E69A67}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2EC424BC-089F-4C9E-859F-61934DA2486E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2EC424BC-089F-4C9E-859F-61934DA2486E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2EC424BC-089F-4C9E-859F-61934DA2486E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2EC424BC-089F-4C9E-859F-61934DA2486E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
