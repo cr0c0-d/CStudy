@@ -94,6 +94,18 @@
     <Compile Include="08_Calculator02.Designer.cs">
       <DependentUpon>08_Calculator02.cs</DependentUpon>
     </Compile>
+    <Compile Include="09_Calculator03.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="09_Calculator03.Designer.cs">
+      <DependentUpon>09_Calculator03.cs</DependentUpon>
+    </Compile>
+    <Compile Include="10_Calculator04.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="10_Calculator04.Designer.cs">
+      <DependentUpon>10_Calculator04.cs</DependentUpon>
+    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="02_TextBox.resx">
@@ -116,6 +128,12 @@
     </EmbeddedResource>
     <EmbeddedResource Include="08_Calculator02.resx">
       <DependentUpon>08_Calculator02.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="09_Calculator03.resx">
+      <DependentUpon>09_Calculator03.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="10_Calculator04.resx">
+      <DependentUpon>10_Calculator04.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
