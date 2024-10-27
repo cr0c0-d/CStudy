@@ -112,6 +112,12 @@
     <Compile Include="11_Multiplication.Designer.cs">
       <DependentUpon>11_Multiplication.cs</DependentUpon>
     </Compile>
+    <Compile Include="12_Multiplication02.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="12_Multiplication02.Designer.cs">
+      <DependentUpon>12_Multiplication02.cs</DependentUpon>
+    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="02_TextBox.resx">
@@ -143,6 +149,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="11_Multiplication.resx">
       <DependentUpon>11_Multiplication.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="12_Multiplication02.resx">
+      <DependentUpon>12_Multiplication02.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
